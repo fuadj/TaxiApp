@@ -1,0 +1,8 @@
+MIDlet-1: TaxiAppMidlet, , ui.TaxiAppMidlet
+MIDlet-Jar-Size: 185651
+MIDlet-Jar-URL: TaxiApp.jar
+MIDlet-Name: TaxiApp
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

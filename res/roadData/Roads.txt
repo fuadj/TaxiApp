@@ -1,0 +1,10 @@
+﻿(Winget|ዊንጌት): (Tero|ጠሮ)[N1], (Lomi Meda|ሎሚ ሜዳ)[N2], (Winget|ዊንጌት)[N3], (Atena Tera|አጠና ተራ)[N4];
+(18 Sefer|አስራ ስምንት): (18 Mazoriya|አስራ ስምንት ማዞሪያ)[N5], (Ashewa Meda|አሽዋ ሜዳ)[N6];
+(Tor Hayloch|ጦር ሐይሎች): (Tor Hayloch|ጦር ሐይሎች)[N7], (Coca Cola|ኮካ ኮላ)[N8], (Total|ቶታል)[N9];
+(Sar Bet|ሳር ቤት): (Sar Bet|ሳር ቤት)[N10], (Mecanissa|መካኒሳ)[N11], (Gebrel|ገብሬል)[N12], (Abo Mazoriya|አቦ ማዞሪያ)[N13], (Kera|ቄራ)[N14];
+(Ayer Tena|አየር ጤና): (Total|ቶታል)[N9], (Zenebe Werk|ዘነበ ወርቅ)[N15], (Ayer Tena|አየር ጤና)[N16];
+(Jemo|ጀሞ): (Jemo|ጀሞ)[N17], (Koshe|ቆሼ)[N18], (Michael Adebabay|ሚካኤል አደባባይ)[N19], (Furi|ፉሪ)[N20], (Germen Adebabay|ጀርመን አደባባይ)[N21];
+(Mexico|ሜክሲኮ): (Ledeta|ልደታ)[N22], (Mexico|ሜክሲኮ)[N23], (Legehar|ለገሐር)[N24], (Commerce|ኮመርስ)[N25], (Bunana Shay|ቡናና ሻይ)[N26], (Beherawi|ብሔራዊ)[N27];
+(Stadium|ስቴደየም): (Stadium|ስቴደየም)[N28];
+(Gotera|ጎተራ): (Gotera|ጎተራ)[N29], (Lancha|ላንቻ)[N30], (Saris|ሳሪስ)[N31], (Kera|ቄራ)[N14], (Welo Sefer|ወሎ ሰፈር)[N32];
+(Lebu|ለቡ): (Germen Adebabay|ጀርመን አደባባይ)[N21], (Mebrat Hayl|መብራት ሐይል)[N33], (Lebu|ለቡ)[34], (Mecanissa|መካኒሳ)[N11], (Michael Adebabay|ሚካኤል አደባባይ)[N19];
